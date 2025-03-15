@@ -11,6 +11,6 @@ upstage의 Solar 모델을 사용하였습니다.
 
 
 ### References 
-https://www.inflearn.com/course/rag-llm-application%EA%B0%9C%EB%B0%9C-langchain 강의를 듣고 학습한 내용입니다. 좋은 강의니 매우 추천드립니다 👍🏻 
+https://www.inflearn.com/course/rag-llm-application개발-langchain 강의를 듣고 학습한 내용입니다. 좋은 강의니 매우 추천드립니다 👍🏻 
 
-https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B7%BC%EB%A1%9C%EA%B8%B0%EC%A4%80%EB%B2%95 
+https://www.law.go.kr/법령/근로기준법
